@@ -16,7 +16,7 @@ This repository contains a Jupyter Notebook performing exploratory analysis on a
 - Highest and lowest rainfall days
 - City-wise average rainfall and plotting
 - City Wise Average Temperature, Rainfall and plotting
-- Seasonal Average Rainfall and Plotting plotting
+- Seasonal Average Rainfall and plotting
 
 ## Notebooks
 
